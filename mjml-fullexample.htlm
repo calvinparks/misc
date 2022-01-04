@@ -1,0 +1,234 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Hoosier Lottery</mj-title>
+    <mj-breakpoint width="599px" />
+    <mj-attributes>
+      <mj-text padding="0px" />
+      <mj-all font-family="Helvetica, Arial, sans-serif" padding="0px" margin="0px" />
+    </mj-attributes>
+	<mj-style>
+      h1,
+      h2,
+      p {
+        font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+      }
+
+      .hl-legal h3,
+      .hl-legal p {
+        font-family: Helvetica, Arial, sans-serif;
+      }
+
+      .hl-legal p {
+        margin: 0px 0px 30px 0px;
+      }
+
+      .hl-legal a { 
+        color: #FFFFFF !important;
+      }
+
+      a[x-apple-data-detectors] { 
+        color: inherit !important; 
+        font-size: inherit !important; 
+        font-family: inherit !important; 
+        font-weight: inherit !important; 
+        line-height: inherit !important; 
+      }
+
+      a:hover { 
+        text-decoration: underline !important; 
+      }
+
+      .uppercase {
+        text-transform: uppercase;
+      }
+
+      @media screen and (min-width: 480px) {
+        h1 {
+          font-size: 46px !important;
+        }
+
+        .aligned-left {
+          text-align: left !important;
+        }
+
+
+      }
+      
+    @media screen and (max-width: 598px) {
+       td.hide-mobile div {
+		   height: 0 !important;
+		   display: none !important;
+	     }
+    
+    }
+    </mj-style>
+  </mj-head>
+    <mj-body background-color="#eee">
+    <mj-wrapper background-color="#ffffff">
+      
+      
+      <mj-section background-color="#eeeeee">
+        <mj-column>
+          <mj-text padding="10px 10px 10px 10px" align="center" font-size="10px" line-height="15px" font-family="Arial, Helvetica, sans-serif">
+            <p style="font-size:10px;line-height:15px;font-family: Helvetica, Arial, sans-serif; font-weight: normal;color: #000000;Margin: 0;">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      
+      <mj-section background-color="#f9cb03" background-size="100%" background-repeat="no-repeat" background-url="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fe225dafffca323b8ee594e/original.png?1608656346">
+      
+        <mj-column width="299px" padding-left="20px">
+          <mj-spacer height="25px" />
+          <mj-image width="65px" align="left" padding-left="20px" href="https://hoosierlottery.com/?utm_source=Braze&utm_medium=Email&utm_content=hoosier-header-logo&utm_campaign=Hoo-Knew-Trivia-Awareness-Email&utm_month=January" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5f28327339f88b14ccdb2bc0/original.png?1596469875" alt="Hoosier Lottery" alt="Hoosier Lottery Logo"></mj-image>
+          <mj-spacer height="5px" />
+          <mj-text padding-left="20px">
+            <p style="font-family: Helvetica, Arial, sans-serif ; color: #424242; font-size: 23px; font-weight: 700; line-height: 23px;">Introducing<br>your newest </br>myLOTTERY perk.</p>
+            <p style="font-size:13px;line-height:17px;letter-spacing: .5px;font-family: Helvetica, Arial, sans-serif; font-weight: 200; color: #424242; padding: 0 30px 0 0;">Now, being a myLOTTERY member gives you access to chances to win prizes with Hoo Knew? Trivia.</p>
+          </mj-text>
+           <mj-image padding-left="20px" width="116px" align="left" href="https://hoosierlottery.com/account/sign-in?utm_source=Braze&utm_medium=Email&utm_content=set-up-alerts-cta&utm_campaign=Hoo-Knew-Trivia-Awareness-Email&utm_month=January" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fe24adafffca32612ee5b55/original.png?1608665818" alt="Hoosier Lottery"></mj-image>
+          <mj-spacer height="23px"  />
+        </mj-column>
+        
+        
+        
+        
+        <mj-column width="301px">
+           
+          <mj-image  width="301px" align="right" href="https://hoosierlottery.com/account/sign-in?utm_source=Braze&utm_medium=Email&utm_content=set-up-alerts-cta&utm_campaign=Hoo-Knew-Trivia-Awareness-Email&utm_month=January" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fe221c5141af4672c16308c/original.png?1608655301" alt="Hoosier Lottery"></mj-image>
+         
+        </mj-column>
+       
+        
+        
+      </mj-section>
+      <mj-section background-color="#ffffff">
+        <mj-column background-color="#ffffff">
+          <mj-text>&nbsp;</mj-text>
+        </mj-column>
+      </mj-section>
+  
+      
+         
+      
+      
+      
+      <mj-section background-color="#ffffff" padding="30px 35px 10px 35px">
+        <mj-column>
+          <mj-text font-family=" Helvetica, Arial, sans-serif" font-size="33px" font-weight="800" line-height="39px" color="#424242" align="center">Indiana trivia for Hoosiers</mj-text>
+        </mj-column>
+      </mj-section>
+      
+      
+      <mj-section background-color="#ffffff" padding-top="0px">
+        <mj-column width="45%" padding-left="20px">
+          <mj-spacer height="5px" />
+          <mj-image width="190px" padding="20px 0px 0px 20px" align="center" href="https://hoosierlottery.com/mylottery/trivia?utm_source=Braze&utm_medium=Email&utm_content=hoo-knew-logo&utm_campaign=Hoo-Knew-Trivia-Awareness-Email&utm_month=January" align="center" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fe2328b26e78f51e51a09ff/original.png?1608659595" alt="Hoosier Lottery"></mj-image>
+          <mj-spacer height="25px" />
+        </mj-column>
+        <mj-column width="55%" padding="0px 0px 0px 20px">
+          <mj-spacer height="20px" css-class="hide-mobile" />
+          <mj-text padding="0px 20px 0px 0px">
+            <p style="font-size:14px;line-height:17px;letter-spacing: .5px;font-family: Helvetica, Arial, sans-serif; font-weight: 100; color: #424242; padding: 0px 20px 0px 0px;">Join us every Monday in the Hoosier Lottery app for trivia with one category that never gets old—all things Hoosier and Hoosier Lottery. <br></br>
+Play every week, and each time you do, you’ll earn an entry into our monthly prize pack drawing. Plus, you’ll pick up some fun Hoosier facts along the way.</p>
+          </mj-text>
+         
+          <mj-spacer height="13px" />
+        </mj-column>
+      </mj-section>
+      
+      
+
+      
+      
+      <mj-section background-color="#f2f2f2" padding="30px 30px 10px 30px">
+        <mj-column>
+          <mj-spacer height="20px" />
+          <mj-text font-family=" Helvetica, Arial, sans-serif" font-size="35px" font-weight="800" line-height="39px" color="#424242" align="center">How To Play</mj-text>
+          <mj-spacer height="10px" />
+        </mj-column>
+      </mj-section>
+      
+      
+      <mj-section background-color="#f2f2f2" padding-top="0px">
+        
+        <mj-column width="100%" padding="0px" >
+          <mj-text align="center">
+            <img width="27" style="width: 27px !important;" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fe2480bd6a83b5fae2f5f95/original.png?1608665099"></img>
+            <p style="font-size:12px;line-height:12px;letter-spacing: .5px;font-family: Helvetica, Arial, sans-serif; font-weight: 600; color: #424242; padding: 0 0px 0 0;">Download the Hoosier Lottery app</p><br>
+          <img width="27" style="width: 27px !important;;" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fe2480a89461f4257b812f9/original.png?1608665098"></img>
+            <p style="font-size:12px;line-height:12px;letter-spacing: .5px;font-family: Helvetica, Arial, sans-serif; font-weight: 600; color: #424242; padding: 0 0px 0 0;">Turn on notifications as a reminder to play each week</p><br>
+        <img width="27" style="width: 27px !important;;" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fe2480b89461f418fb81375/original.png?1608665099"></img>
+            <p style="font-size:12px;line-height:12px;letter-spacing: .5px;font-family: Helvetica, Arial, sans-serif; font-weight: 600; color: #424242; padding: 0 0px 0 0;">Keep an eye on your email to see if you’re a winner</p>
+          </mj-text>
+            <mj-spacer height="33px" />
+          <mj-image  width="116px" align="center" href="https://hoosierlottery.com/account/sign-in?utm_source=Braze&utm_medium=Email&utm_content=set-up-alerts-cta&utm_campaign=Hoo-Knew-Trivia-Awareness-Email&utm_month=January" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5fe24adcfffca32512ee5bc9/original.png?1608665820" alt="Hoosier Lottery"></mj-image>
+          <mj-spacer height="33px" />
+          <mj-spacer height="30px" css-class="hide-mobile" />
+        </mj-column>
+
+      </mj-section>
+
+
+   <mj-section css-class="hl-legal" background-color="#d30418" padding="30px 30px 15px 30px">
+      <mj-column>
+        <mj-image href="https://hoosierlottery.com?utm_source=braze&amp;utm_medium=email&amp;utm_campaign=birthday_email&amp;utm_content=footer_logo" width="88px" padding="0px 0px 10px 0px" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5db9f939c2b477583f02c234/original.png?1572469049" alt="Hoosier Lottery"></mj-image>
+        <mj-spacer height="25px" />
+        <mj-text align="center" font-size="24px" line-height="26px" color="#FFFFFF">
+          <h3 style="text-transform:uppercase;color:#ffffff;font-size:13px;font-weight: normal;line-height:24px;letter-spacing:2px;margin: 0px 0px 0px 0px;">Connect with us:</h3>
+        </mj-text>
+        <mj-table cellpadding="10px" align="center" padding="10px 0px 30px 0px">
+          <tr>
+            <td style="width: 30%;">
+              <mj-spacer height="1px" />
+            </td>
+            <td style="text-align: center; line-height: 1;">
+              <a href="https://www.facebook.com/hoosierlottery?utm_source=braze&amp;utm_medium=email&amp;utm_campaign=birthday_email&amp;utm_content=facebook-cta" target="_blank">
+                  <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5db9dbd15b99ac5ce5d18c75/original.png?1572461521" width="45" height="45" style="display: block;" alt="Hoosier Lottery on Facebook" />
+              </a> 
+            </td>
+            <td style="text-align: center; line-height: 1;">
+              <a href="https://twitter.com/hoosierlottery?utm_source=braze&amp;utm_medium=email&amp;utm_campaign=birthday_email&amp;utm_content=twitter-cta" target="_blank">
+                <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5db9dbd1af874e17d793c95f/original.png?1572461521" width="45" height="45" style="display: block;" alt="Hoosier Lottery on Twitter" />
+              </a>
+            </td>
+            <td style="text-align: center; line-height: 1;">
+              <a href="https://www.instagram.com/hoosierlottery?utm_source=braze&amp;utm_medium=email&amp;utm_campaign=birthday_email&amp;utm_content=instagram-cta" target="_blank">
+                  <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5db9dbd17b648d1dc0297916/original.png?1572461521" width="45" height="45" style="display: block;" alt="Hoosier Lottery on Instagram" />
+              </a> 
+            </td>
+            <td style="text-align: center; line-height: 1;">
+              <a href="https://www.youtube.com/user/thehoosierlottery?utm_source=braze&amp;utm_medium=email&amp;utm_campaign=birthday_email&amp;utm_content=youtube-cta" target="_blank">
+                  <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5db9dbd12eef8c70aaa8c762/original.png?1572461521" width="45" height="45" style="display: block;" alt="Hoosier Lottery on YouTube" />
+              </a>
+            </td>
+            <td style="width: 30%;">
+              <mj-spacer height="1px" />
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text align="center" font-size="9px" line-height="16px" color="#FFFFFF" padding="0px 20px 10px 20px">
+          <p style="color: #FFFFFF;">Hoo Knew? Trivia promotion odds are dependent on the number of entries received.</br>
+Must be 18 or older to play. Please play responsibly. </p>
+        </mj-text>
+        <mj-text align="center" font-size="14px" line-height="15px" color="#FFFFFF">
+          <h3 style="font-size:14px;line-height:16px;font-family: Helvetica, Arial, sans-serif; font-weight: normal;Margin: 0; color: #ffffff;">Problem Gambling Helpline</h3>
+        </mj-text>
+        <mj-spacer height="5px" />
+        <mj-text align="center" font-size="23px" line-height="25px" color="#FFFFFF" padding="0px 0px 0px 0px">
+          <a href="tel:+1-800-994-8448"><span style="color: #FFFFFF">1&#45;800&#45;994&#45;8448</span></a>
+        </mj-text>
+        <mj-text align="center" font-size="10px" line-height="13px" padding="10px 20px 0px 20px" color="#FFFFFF">
+          <p style="padding: 0 10px; color: #FFFFFF;">This email was sent to <a href="mailto:{{${email_address}}}"><span style="color: #FFFFFF">{{${email_address}}}</span></a> because you provided your email address and selected this as a preference.<br></br>Edit your <a href="https://hoosierlottery.com/account/sign-in?utm_source=braze&amp;utm_medium=email&amp;utm_campaign=birthday_email&amp;utm_content=preferences" target="_blank"><span style="color: #FFFFFF">preferences</span></a> any time or <a href="{{${set_user_to_unsubscribed_url}}}?utm_source=braze&amp;utm_medium=email&amp;utm_campaign=birthday_email&amp;utm_content=unsubscribe" target="_blank"><span style="color: #FFFFFF">unsubscribe</span></a>.</p>
+          <p style="color: #FFFFFF;">
+            <span style="font-weight: 600">Hoosier Lottery</span><br />
+            <span style="color: #FFFFFF">1302 N. Meridian Street, Indianapolis, IN 46202</span>
+
+            <br></br><br></br><span><a href="https://hoosierlottery.com/contact-us?utm_source=braze&amp;utm_medium=email&amp;utm_campaign=birthday_email&amp;utm_content=contact_us" target="_blank"><span style="color: #FFFFFF">Contact&nbsp;Us</span></a></span>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
